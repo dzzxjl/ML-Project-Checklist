@@ -1,10 +1,5 @@
----
-title: Machine-Learning-Project-Checklist
-date: 2017-10-19 18:50:22
-tags:
----
 
-## Machine Learning Project Checklist
+# Machine Learning Project Checklist
 
 1. Frame the problem and look at the big picture. 将问题框架化并且关注重点
 2. Get the data. 获取数据
@@ -14,6 +9,8 @@ tags:
 6. Fine-tune your models and combine them into a great solution. 调整模型并将它们结合为很棒的解决方案
 7. Present your solution. 展示你的解决方案 
 8. Launch, monitor, and maintain your system 建立，监督并维护你的系统
+
+---
 
 ## Frame the Problem and Look at the Big Picture
 
