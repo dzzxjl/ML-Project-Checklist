@@ -1,4 +1,4 @@
-> 原文来自于[《Hands-On Machine Learning with Scikit-Learn and TensorFlow》](https://book.douban.com/subject/26840215/)附录，是系统学习机器学习非常不错的入门书籍，希望通过此checklist能更好地认识数据挖掘的整个流程与重点
+> 原文来自于[《Hands-On Machine Learning with Scikit-Learn and TensorFlow》](https://book.douban.com/subject/26840215/)附录，是系统学习机器学习非常不错的入门书籍，希望通过此checklist能更好地认识数据挖掘的整个流程与重点，感谢[@swordspoet](https://github.com/swordspoet)补充与校对
 
 # Machine Learning Project Checklist
 
